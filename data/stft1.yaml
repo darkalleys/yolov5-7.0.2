@@ -1,0 +1,10 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+#path: D:/AAAprogramfile/pycharm/yolov5-7.0/stft/images/  # dataset root dir
+train: D:/AAAprogramfile/pycharm/yolov5-7.0/stft2/images/train/  # 180 images
+val: D:/AAAprogramfile/pycharm/yolov5-7.0/stft2/images/val/  # 20 images
+
+# number of classes
+nc: 3
+
+# class names
+names: ["cw","lfm","hfm"]
