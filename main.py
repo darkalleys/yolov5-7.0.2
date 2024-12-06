@@ -578,8 +578,8 @@ class MainWindow(QMainWindow, Ui_mainWindow):
         self.det_thread.jump_out = True
         config_file = 'config/setting.json'
         config = dict()
-        config['iou'] = self.confSpinBox.value()
-        config['conf'] = self.iouSpinBox.value()
+        config['iou'] = self.iouSpinBox.value()
+        config['conf'] = self.confSpinBox.value()
         config['rate'] = self.rateSpinBox.value()
         config['check'] = self.checkBox.checkState()
         config['savecheck'] = self.saveCheckBox.checkState()
