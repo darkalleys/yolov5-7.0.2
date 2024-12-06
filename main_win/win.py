@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'win.ui'
+# Form implementation generated from reading ui file 'd:\AAAprogramfile\pycharm\yolov5-7.0.2\main_win\win.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.9
 #
