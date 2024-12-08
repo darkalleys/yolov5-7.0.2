@@ -14,7 +14,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_mainWindow(object):
     def setupUi(self, mainWindow):
         mainWindow.setObjectName("mainWindow")
-        mainWindow.resize(1394, 762)
+        mainWindow.resize(724, 553)
         mainWindow.setMouseTracking(True)
         icon = QtGui.QIcon()
         icon.addPixmap(QtGui.QPixmap(":/img/icon/图片1.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
